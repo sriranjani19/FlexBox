@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="Layout.css">
+    <title>My Test Page</title>
+</head>
+<body>
+    <h1>Beidgelabs Is Cool<h2>
+        <img src="bridgelabz-solutions-squarelogo-1576063675737.png"alt="Hover Text."width="25%">
+        <p>At BridgeLabz, We're a techie community of<p>
+        <ul>
+            <li>Technologists</li>
+            <li>Thinkers</li> 
+            <li>buliders</li>
+         <ul>
+             <p>
+                 Working togather to keep the Thech Employbility Of enginners alive and Accecibilie, 
+                 so thech Companies worldWide can got contributers and creatord for technologies 
+                 We belive this act of human collabration across an employibity platform, is essential 
+                 to individual growth and our collective future
+              <p>
+                  <p>To about us, visit <a href="https://www.bridgelabs.com/">Brigelabs</a>
+                    To learn even more about oue mission i.e. <strong>Employability to all</strong><p>            
+    
+</body>
+</html> 
+
+    
